@@ -16,7 +16,10 @@ We ask of you to follow a few guidelines, or else we will _not_ accept your pull
 
 ## Code style
 
-We try to follow the [Google C++ Style Guide](http://google-styleguide.googlecode.com/svn/trunk/cppguide.xml) as closely as possible for consistency.
+We try to follow the [Google C++ Style Guide](http://google-styleguide.googlecode.com/svn/trunk/cppguide.xml) as closely as possible for consistency. Some exceptions to these guidelines are:
+
+* We use a tab for indenting rather than 2 spaces. This is because many text editors come with the functionality to change the rendering of the tab character to however many spaces you like.
+* Define guards in the header files follow the format ``PATHOGEN_<FILE>_H_`` rather than ``PATHOGEN_<PATH>_<FILE>_H_``.
 
 ## Doxygen Comments
 
