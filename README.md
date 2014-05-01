@@ -1,6 +1,8 @@
-# pathogen
+# Pathogen
 
-Scavenge the remnants of civilization for food and equipment in the struggle for survival, in a persistent procedurally generated post-apocalyptic world. When all civilization cease to exist and the entire human race is on the brink of extinction, it is truly survival of the fittest.
+> An airborne disease has spread across the lands, destroying any civilization in its path. All you ever loved is gone - but why? In an effort to find answers, and maybe even a cure, you scavenge the remnants of civlization for food and gear, in the struggle for survival.
+
+Pathogen is a roguelike set in a procedurally-generated post-apocalyptic world.
 
 # Compile
 
